@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "input_cases": 518,
+    "output_rows": 518,
+    "total_steps": 492,
+    "sample_matches": 0,
+    "sample_compared": 0
+  },
+  "failures": {
+    "missing_case_ids": 0,
+    "duplicate_case_ids": 0,
+    "invalid_statuses": 0,
+    "step_schema_violations": 0,
+    "step_numbering_failures": 0,
+    "phase_order_failures": 0,
+    "evidence_compliance_failures": 0,
+    "invalid_evidence_citations": 0
+  }
+}
